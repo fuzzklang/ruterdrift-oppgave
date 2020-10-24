@@ -1,14 +1,3 @@
-/*
- * Oblig 2 - Oppgave 1
- * terjesyl - Terje Sylvarnes
- * ruterdrift
- *
- * Amount of allocated memory during runtime depends on the numbers of routers
- * in router information file, as well as how long a path in the recursive_search
- * function gets. But on my computer, for 10 routers, valgrind reports appr.
- * 18,000 bytes of heap allocated memory, and appr. 34,000 bytes for 50 routers.
- */
-
 #include <stdio.h>
 #include <string.h>
 #include <errno.h>

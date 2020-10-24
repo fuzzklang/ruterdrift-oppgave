@@ -4,7 +4,7 @@ Filformatet er spesifisert i oppgaveteksten.
 På grunn av opphavsrett kan ikke oppgaveteksten og utleverte filer publiseres. Programmet er derfor ikke kjørbart (mangler gyldige input-filer).
 
 
-# BRUK
+# Bruk
 Programmet leser først inn data om rutere fra fil oppgitt som argument. Konstruerer grafen fra dette.
 Leser deretter inn kommandoer fra en annen fil. Programmet skal kunne kjøre følgende kommandoer
 * printe informasjon om ruterne
@@ -15,9 +15,9 @@ Leser deretter inn kommandoer fra en annen fil. Programmet skal kunne kjøre fø
 * sjekke om en rute mellom to routere eksisterer
 
 
-# DEPENDENCIES 
+# Dependencies 
 Bruker valgrind til debugging
 
 
-# TODO
+# Todo
 Rydde: Dele opp de ulike delene av programmet i egne filer med tilhørende kodehoder.
